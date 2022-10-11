@@ -16,9 +16,8 @@ allure-report/
 
 # JetBrains
 .idea/
-
-*.iml
-
+.iml
+.env
 # MacOS
 .DS_Store
 
